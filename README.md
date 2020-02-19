@@ -1,7 +1,7 @@
 # EOSIO.cdt (Contract Development Toolkit)
 This is a step-by-step guideline to install EOSIO.cdt, which can be done via 2 methods:
 * [Install by Prebuilt Binaries](#install-by-prebuilt-binaries)
-* [Install by building from Source Code](#Install-by-building-from-source-code)
+* [Install by building from Source Code](#install-by-building-from-source-code)
 
 ## Install by Prebuilt Binaries
 ### Mac OS X Brew Install
